@@ -36,6 +36,15 @@ I'm Manne Namratha Sai, a Computer Science student from Pragati Engineering Coll
 - Certifications
 - Contact
 
+## 🧑‍💻 Author
+
+**Manne Namratha Sai**
+
+*  LinkedIn :[LinkedIn](https://www.linkedin.com/in/manne-namratha-sai-029771259)
+* GitHub :[GitHub](https://github.com/mannenamratha)
+* Email: [manne.namrathasai@gmail.com](mailto:manne.namrathasai@gmail.com)
+* Discord: @mannenamrathasai_1220
+
 ## 💡 How to Use
 
 1. Clone the repository:
@@ -54,12 +63,6 @@ I'm Manne Namratha Sai, a Computer Science student from Pragati Engineering Coll
    * Netlify (drag & drop or connect via GitHub)
    * Vercel or GitHub Pages (optional)
 
-## 🧑‍💻 Author
 
-**Manne Namratha Sai**
 
-* [LinkedIn](https://www.linkedin.com/in/manne-namratha-sai-029771259)
-* [GitHub](https://github.com/mannenamratha)
-* Email: [manne.namrathasai@gmail.com](mailto:manne.namrathasai@gmail.com)
-* Discord: @mannenamrathasai_1220
 
